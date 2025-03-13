@@ -13,6 +13,7 @@ This repository contains my implementation of CUDA-based matrix multiplication f
 
 -> Detailed report and graphical analysis
 
+
 # 📊 Performance Analysis
 
 Key insights from the execution:
@@ -23,13 +24,16 @@ Key insights from the execution:
 
 ✔ GPU Comparison: Running on different GPUs (local vs. Google Colab) shows notable performance differences.
 
+
 # 🔥 Results Overview
 
 📌 Detailed graphs can be found in the results folder.
 
+
 # 📝 Report
 
 The full analysis, including methodology, findings, and conclusions, is available in report.pdf.
+
 
 # 🤖 Author
 
