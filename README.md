@@ -23,15 +23,20 @@ Key insights from the execution:
 
 ✔ GPU Comparison: Running on different GPUs (local vs. Google Colab) shows notable performance differences.
 
-🔥 Results Overview
+# 🔥 Results Overview
+
 📌 Detailed graphs can be found in the results folder.
 
-📝 Report
+# 📝 Report
+
 The full analysis, including methodology, findings, and conclusions, is available in report.pdf.
 
-🤖 Author
-📌 Your Name
-📌 FAST-NUCES Islamabad
-📌 Course: CS-4110 High-Performance Computing
+# 🤖 Author
+
+📌 Ahmad
+
+📌 CS Student FAST-NUCES Islamabad
+
+📌 Course: CS-4110 High-Performance Computing with GPU
 
 
