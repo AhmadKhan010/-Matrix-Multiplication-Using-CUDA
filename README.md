@@ -1,6 +1,6 @@
-# 🚀 Matrix Multiplication Using CUDA
+#🚀 Matrix Multiplication Using CUDA
 
-# 📌 Overview
+#📌 Overview
 This repository contains my implementation of CUDA-based matrix multiplication for the High-Performance Computing (HPC) course (CS-4110). The project includes:
 
 CPU and GPU matrix multiplication implementation using CUDA
