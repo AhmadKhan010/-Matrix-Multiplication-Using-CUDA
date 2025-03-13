@@ -13,10 +13,14 @@ This repository contains my implementation of CUDA-based matrix multiplication f
 
 -> Detailed report and graphical analysis
 
-📊 Performance Analysis
+# 📊 Performance Analysis
+
 Key insights from the execution:
+
 ✔ Speedup Analysis: The GPU implementation significantly outperforms the CPU, especially for larger matrices.
+
 ✔ 1D vs. 2D Kernel Comparison: The 2D kernel launch is more efficient due to better memory access patterns.
+
 ✔ GPU Comparison: Running on different GPUs (local vs. Google Colab) shows notable performance differences.
 
 🔥 Results Overview
